@@ -1,3 +1,5 @@
+<>#Forgotten changes - 4/8/2025
+- beacon got a rework, it was forgotten to mention in change logs.
 <>#Decent update - 4/12/2025
 - Replaced ALL mentions of wait() with task.wait() with a few exceptions. Hopefully this reduces game lag!
 + Some errors will most definitely arise. Please report them if you find one.
